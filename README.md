@@ -263,3 +263,7 @@ int main()
 	return 0;
 }
 ```
+### 결과화면
+![image](https://user-images.githubusercontent.com/106458316/225668751-2da81af3-9cf5-41a8-8d25-c4796e62212d.png)<br>
+![image](https://user-images.githubusercontent.com/106458316/225669374-aa5a5be0-9d7f-4c6e-9551-e74480531bdd.png)
+
