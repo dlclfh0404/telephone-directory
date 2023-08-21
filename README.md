@@ -5,13 +5,6 @@
 ![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)
 ### 코드
 ```C
-/*
-	Member Rnformation Management
-	fileName : memberMgmt-구조체.c
-	
-	Date : 2022.08.04
-*/
-
 #include<stdio.h>
 #include<stdlib.h> //exit()
 #include<windows.h> //system()
